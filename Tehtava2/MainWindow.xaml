@@ -1,0 +1,23 @@
+﻿<Window x:Class="Tehtava2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tehtava2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600">
+    <Grid>
+        <DataGrid x:Name="dgCountries" Margin="10,120,10,10" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+        <Button x:Name="btnPopulation" Content="Show Most Populated" HorizontalAlignment="Left" Margin="90,10,0,0" VerticalAlignment="Top" Width="128" Click="btnPopulation_Click"/>
+        <Button x:Name="btnSurface" Content="Show Most Surface Area" HorizontalAlignment="Left" Margin="223,10,0,0" VerticalAlignment="Top" Width="139" Click="btnSurface_Click"/>
+        <Button x:Name="btnAll" Content="Show All" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="btnAll_Click"/>
+        <TextBox x:Name="txtFind" HorizontalAlignment="Left" Height="23" Margin="10,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+        <Button x:Name="btnFind" Content="Find" HorizontalAlignment="Left" Margin="197,38,0,0" VerticalAlignment="Top" Width="75" Click="btnFind_Click"/>
+        <ComboBox x:Name="cbContinent" HorizontalAlignment="Left" Margin="410,10,0,0" VerticalAlignment="Top" Width="172" SelectionChanged="comboBox_SelectionChanged"/>
+        <Label x:Name="label" Content="Country count: " HorizontalAlignment="Left" Margin="10,89,0,0" VerticalAlignment="Top" Width="93"/>
+        <Label x:Name="label_Copy" Content="Sum of population: " HorizontalAlignment="Left" Margin="247,89,0,0" VerticalAlignment="Top" Width="115"/>
+        <Label x:Name="lblCountry" Content="" HorizontalAlignment="Left" Margin="108,89,0,0" VerticalAlignment="Top" Width="118"/>
+        <Label x:Name="lblPopulation" Content="" HorizontalAlignment="Left" Margin="367,89,0,0" VerticalAlignment="Top" Width="124"/>
+
+    </Grid>
+</Window>

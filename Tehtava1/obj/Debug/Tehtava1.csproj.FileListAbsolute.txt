@@ -1,0 +1,14 @@
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\bin\Debug\Tehtava1.exe.config
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\bin\Debug\Tehtava1.exe
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\bin\Debug\Tehtava1.pdb
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\obj\Debug\Tehtava1.csprojResolveAssemblyReference.cache
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\obj\Debug\MainWindow.g.cs
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\obj\Debug\App.g.cs
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\obj\Debug\Tehtava1_MarkupCompile.cache
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\obj\Debug\Tehtava1_MarkupCompile.lref
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\obj\Debug\MainWindow.baml
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\obj\Debug\Tehtava1.g.resources
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\obj\Debug\Tehtava1.Properties.Resources.resources
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\obj\Debug\Tehtava1.csproj.GenerateResource.Cache
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\obj\Debug\Tehtava1.exe
+Z:\Github\IIO13200-OHJELMOINTIKOE\Tehtava1\obj\Debug\Tehtava1.pdb
